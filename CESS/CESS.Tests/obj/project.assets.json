@@ -10211,11 +10211,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musabarif\\Documents\\Visual Studio 2017\\Projects\\CESS\\CESS.Tests\\CESS.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\musabarif\\Documents\\GitHub\\TestNode\\MailSchedulerApplication\\CESS\\CESS.Tests\\CESS.Tests.csproj",
       "projectName": "CESS.Tests",
-      "projectPath": "C:\\Users\\musabarif\\Documents\\Visual Studio 2017\\Projects\\CESS\\CESS.Tests\\CESS.Tests.csproj",
+      "projectPath": "C:\\Users\\musabarif\\Documents\\GitHub\\TestNode\\MailSchedulerApplication\\CESS\\CESS.Tests\\CESS.Tests.csproj",
       "packagesPath": "C:\\Users\\musabarif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\musabarif\\Documents\\Visual Studio 2017\\Projects\\CESS\\CESS.Tests\\obj\\",
+      "outputPath": "C:\\Users\\musabarif\\Documents\\GitHub\\TestNode\\MailSchedulerApplication\\CESS\\CESS.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -10235,8 +10235,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\musabarif\\Documents\\Visual Studio 2017\\Projects\\CESS\\CESS\\MailSendingApplication.csproj": {
-              "projectPath": "C:\\Users\\musabarif\\Documents\\Visual Studio 2017\\Projects\\CESS\\CESS\\MailSendingApplication.csproj"
+            "C:\\Users\\musabarif\\Documents\\GitHub\\TestNode\\MailSchedulerApplication\\CESS\\CESS\\MailSendingApplication.csproj": {
+              "projectPath": "C:\\Users\\musabarif\\Documents\\GitHub\\TestNode\\MailSchedulerApplication\\CESS\\CESS\\MailSendingApplication.csproj"
             }
           }
         }

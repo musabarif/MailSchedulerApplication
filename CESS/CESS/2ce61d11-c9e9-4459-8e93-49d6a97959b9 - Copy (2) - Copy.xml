@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<ComEmail xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ToRecipients>
+    <string>mikerosshoon@gmail.com</string>
+  </ToRecipients>
+  <CcRecipients />
+  <BccRecipients />
+  <Subject>Statement for Rae ADAMS (Statement ID 2652).1.pdf</Subject>
+  <Body>Dear Anil,
+<br/>
+This is test email.
+<br/>
+Regards,<br/>
+QA Infotech</Body>
+  <Attachments>
+    <string>D:\CESS\Temp Te\Statement for Rae ADAMS (Statement ID 2652).1.pdf</string>
+  </Attachments>
+</ComEmail>
